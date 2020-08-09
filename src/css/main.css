@@ -134,3 +134,18 @@ form input[checkbox] {
 .enviar:hover {
     background-color: #ff8c00;
 }
+
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background-color: #555;
+    color: #fff;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 8px 15px;
+}
