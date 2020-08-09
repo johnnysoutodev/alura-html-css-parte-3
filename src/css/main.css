@@ -97,3 +97,20 @@
 
 /* contato */
 
+form {
+    margin: 40px 0;
+}
+
+form label {
+    font-size: 20px;
+}
+
+form input {
+    padding: 10px 15px;
+    width: 50%;
+}
+
+form label, form input {
+    display: block;
+    margin-bottom: 10px;
+}
