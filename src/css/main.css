@@ -105,12 +105,12 @@ form label {
     font-size: 20px;
 }
 
-form input {
+form input, form textarea {
     padding: 10px 15px;
     width: 50%;
 }
 
-form label, form input {
+form label, form input, form textarea {
     display: block;
     margin-bottom: 10px;
 }
