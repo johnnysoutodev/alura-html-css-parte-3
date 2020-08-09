@@ -101,16 +101,15 @@ form {
     margin: 40px 0;
 }
 
-form label {
+form label, form p {
+    display: block;
     font-size: 20px;
+    margin-bottom: 10px;
 }
 
-form input, form textarea {
+.input-padrao {
+    display: block;
+    margin-bottom: 20px;
     padding: 10px 15px;
     width: 50%;
-}
-
-form label, form input, form textarea {
-    display: block;
-    margin-bottom: 10px;
 }
