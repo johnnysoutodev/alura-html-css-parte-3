@@ -4,9 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {"liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+	"settings": {
+		"liveServer.settings.CustomBrowser": "chrome:PrivateMode",
 		"liveServer.settings.root": "/src/",
 		"liveServer.settings.fullReload": true,
 		"liveServer.settings.port": 80,
-		"liveServer.settings.host": "localhost"}
+		"liveServer.settings.host": "localhost"
+	}
 }
